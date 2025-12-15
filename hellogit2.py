@@ -1,1 +1,1 @@
-print('hello git 2 version 2 me cachis')
+print('hello git 2 version')
