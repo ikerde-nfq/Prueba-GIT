@@ -1,1 +1,1 @@
-print('hello git 2 version 2 login')
+print('hello git 2 version')
